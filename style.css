@@ -12,6 +12,10 @@
 	height: 400px;
 	width: 100%;
 }
+#Proclass{
+	font-size: 60px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
 .Gtext{
 	padding-top: 150px;
 	flex-direction: center;
