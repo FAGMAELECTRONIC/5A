@@ -41,6 +41,13 @@
 	font-size: 20px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
+#Novin{
+	display: flex;
+	text-align: center;
+	justify-content: space-around;
+	padding: 50px;
+	 background-color: rgba(136, 8, 8, 0.4);
+}
 #Pro{
 	display: flex;
 	text-align: center;
