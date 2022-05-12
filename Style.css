@@ -23,7 +23,6 @@ a{
 	background-color: #FFC117;
 }
 .img{
-	border-radius: 50%;
 	position: relative;
 	z-index: 1;
 	left: -250px;
